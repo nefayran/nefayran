@@ -14,6 +14,8 @@ I build LLM agents into how engineering teams deliver software, and I measure wh
 - [agentic-frontend-team](https://github.com/nefayran/agentic-frontend-team): six Claude Code agents that take an
   RFP to a tested Next.js frontend.
 - [ai-from-scratch](https://github.com/nefayran/ai-from-scratch): LLM patterns in plain Python, no frameworks.
+- [cbm-lean](https://github.com/nefayran/cbm-lean): a lean MCP server for a code graph, and a public benchmark of
+  whether it saves a coding agent tokens against Grep and Read.
 
 Merged upstream: [vite-plugin-federation#261](https://github.com/originjs/vite-plugin-federation/pull/261),
 [code-coverage#600](https://github.com/cypress-io/code-coverage/pull/600).
