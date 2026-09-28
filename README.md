@@ -20,7 +20,8 @@ I build LLM agents into how engineering teams deliver software, and I measure wh
   into a vesicle? A WebGPU simulation with pass criteria fixed before the runs and a negative answer with a measured
   cause ([live demo](https://nefayran.github.io/protocell-genesis/)).
 
-Merged upstream: [vite-plugin-federation#261](https://github.com/originjs/vite-plugin-federation/pull/261),
+Merged upstream: [avoid-ai-writing#352](https://github.com/conorbronsdon/avoid-ai-writing/pull/352),
+[vite-plugin-federation#261](https://github.com/originjs/vite-plugin-federation/pull/261),
 [code-coverage#600](https://github.com/cypress-io/code-coverage/pull/600).
 
 Claude Certified Architect – Foundations · [allkeep.org](https://allkeep.org) · nefayran@gmail.com
