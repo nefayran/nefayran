@@ -15,7 +15,11 @@ I build LLM agents into how engineering teams deliver software, and I measure wh
   RFP to a tested Next.js frontend.
 - [ai-from-scratch](https://github.com/nefayran/ai-from-scratch): LLM patterns in plain Python, no frameworks.
 - [code-graph-vs-grep](https://github.com/nefayran/code-graph-vs-grep): does a code graph save a coding agent tokens
-  against Grep and Read? Measured on public repos with two Claude models, plus the MCP wrapper under test.
+  against Grep and Read? Measured on public repos with two Claude models, plus the MCP wrapper under test
+  ([write-up](https://allkeep.org/en/lab/code-graph-vs-grep)).
+- [protocell-genesis](https://github.com/nefayran/protocell-genesis): can a simulated primordial soup close itself
+  into a vesicle? A WebGPU simulation with pass criteria fixed before the runs and a negative answer with a measured
+  cause ([live demo](https://nefayran.github.io/protocell-genesis/)).
 
 Merged upstream: [vite-plugin-federation#261](https://github.com/originjs/vite-plugin-federation/pull/261),
 [code-coverage#600](https://github.com/cypress-io/code-coverage/pull/600).
